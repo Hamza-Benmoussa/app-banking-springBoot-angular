@@ -1,1 +1,1 @@
-# app-banking-springBoot-angular
+# DigitalBanking-Spring-Angular
